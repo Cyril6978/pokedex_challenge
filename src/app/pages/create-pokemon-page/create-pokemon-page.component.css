@@ -1,3 +1,16 @@
+h2 {
+    font-family: fantasy;
+    font-size: 25px;
+    color: rgb(5, 74, 74);
+}
+
+label {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: black;
+}
+
+
 form {
     width: 40vw;
     display: flex;
